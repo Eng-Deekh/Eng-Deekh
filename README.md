@@ -54,13 +54,15 @@
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/deekh-dev-970453387/?trk=public-profile-join-page" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40"/>
   </a>
   
   <!-- TikTok -->
   <a href="https://www.tiktok.com/@eng.deekh" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/3046/3046121.png" alt="TikTok" height="40" width="40"/>
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/3046/3046125.png" alt="TikTok" height="40" width="40"/>
   </a>
+</p>
+
 </p>
 
 
