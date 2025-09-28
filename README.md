@@ -46,9 +46,9 @@ I enjoy tackling challenges, optimizing performance, and staying ahead of indust
 ---
 
 ### 📫 Let’s Connect  
-- 💼 [LinkedIn](#)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/deekh-dev-970453387/?trk=public-profile-join-page)  
 - 🌍 [Portfolio/Website](#)  
-- ✉️ Email: your-email@example.com  
+- ✉️ Email: deekhdev@gmail.com
 
 ---
 
