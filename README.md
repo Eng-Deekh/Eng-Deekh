@@ -33,7 +33,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="40" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angular" width="40" height="40"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/vue-js-3.svg" alt="vue" width="40" height="40"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/vue-3.svg" alt="vue" width="40" height="40"/> 
 
   <!-- Backend -->
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
@@ -75,13 +75,3 @@
 
 ---
 
-## ✨ About Me
-Mohamed Ahmed Ali is a passionate **Full-Stack Developer** specializing in **end-to-end web application development**.  
-
-- 🎨 **Frontend**: React, HTML/CSS, JavaScript, Angular, Vue.js  
-- ⚙️ **Backend**: Node.js, Express.js, Laravel, Java, PHP, C#  
-- 🔑 **APIs**: RESTful APIs, JWT, OAuth  
-- 🗄️ **Databases**: PostgreSQL, MySQL, MongoDB  
-- ⚡ **Other Skills**: Debugging, Performance Optimization, Bootstrap, Tailwind CSS  
-
-👉 Dedicated to innovation and always staying ahead of industry trends to create **cutting-edge applications**.  
