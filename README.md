@@ -8,7 +8,7 @@
 # 👋 Hi, I'm Mohamed Ahmed Ali
 💻 **Full-Stack Developer | Passionate About End-to-End Web Solutions**  
 
-🌱 I’m currently learning **React & Spring Boot**  
+🌱 I’m currently learning **Devops**  
 ⚡ Fun fact: *I love building scalable and secure applications!*  
 
 ---
