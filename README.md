@@ -59,18 +59,6 @@
 
 ---
 
-## ☕ Support
-<p>
-  <a href="https://www.buymeacoffee.com/yourlink" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" />
-  </a>
-  <a href="https://buymeacoffee.com/yourlink" target="_blank">
-    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20a%20Coffee-black?style=for-the-badge&logo=buymeacoffee" height="50"/>
-  </a>
-</p>
-
----
-
 <!-- Profile Banner / Avatar -->
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300px" />
