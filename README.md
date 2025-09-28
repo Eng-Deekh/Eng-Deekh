@@ -41,7 +41,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="40" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angular" width="40" height="40"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="vue" width="40" height="40"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/vue-js-4.svg" alt="vue" width="40" height="40"/> 
 
   <!-- Backend -->
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
@@ -51,7 +51,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="40" height="40"/> 
 
   <!-- Databases -->
-  <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="mysql" width="50" height="50"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/mysql-4.svg" alt="mysql" width="50" height="50"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql" width="40" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="40" height="40"/> 
 
