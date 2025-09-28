@@ -33,14 +33,14 @@
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="40" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angular" width="40" height="40"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/vue-js-4.svg" alt="vue" width="40" height="40"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/vue-js-2.svg" alt="vue" width="40" height="40"/> 
 
   <!-- Backend -->
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="java" width="40" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="csharp" width="40" height="40"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/php-4.svg" alt="php" width="40" height="40"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/php-5.svg" alt="php" width="40" height="40"/> 
 
   <!-- Databases -->
   <img src="https://cdn.worldvectorlogo.com/logos/mysql-4.svg" alt="mysql" width="50" height="50"/> 
