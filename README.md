@@ -52,7 +52,7 @@
 
 ## 🤝 Connect with me
 <p align="left">
-<a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/deekh-dev-970453387/?trk=public-profile-join-page)" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/deekh-dev-970453387/?trk=public-profile-join-page" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" /></a>
 <a href="https://facebook.com/your-facebook" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="facebook" height="40" width="40" /></a>
 
 </p>
