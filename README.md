@@ -1,5 +1,7 @@
 <!-- Profile Views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Eng-Deekh&label=Profile%20views&color=0e75b6&style=flat" alt="Eng-Deekh" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Eng-Deekh&label=Profile%20views&color=0e75b6&style=flat" alt="Eng-Deekh" /> 
+</p>
 
 <!-- Profile Banner / Avatar -->
 <p align="center">
@@ -8,7 +10,7 @@
 
 ---
 
-## 👋 Hi, I'm Mohamed Ahmed Ali
+# 👋 Hi, I'm Mohamed Ahmed Ali
 💻 **Full-Stack Developer | Passionate About End-to-End Web Solutions**  
 
 🌱 I’m currently learning **React & Spring Boot**  
@@ -23,28 +25,48 @@
 
 ---
 
-## 🤝 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" /></a>
-<a href="https://facebook.com/your-facebook" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="facebook" height="40" width="40" /></a>
-<a href="https://behance.net/your-behance" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145799.png" alt="behance" height="40" width="40" /></a>
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eng-Deekh&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Deekh&layout=compact&theme=radical" height="180" />
 </p>
 
 ---
 
-## 🛠️ Languages and Tools:
-<p align="left"> 
+## 🛠️ Languages and Tools
+<p align="center"> 
+  <!-- Frontend -->
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="40" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" width="40" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="40" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angular" width="40" height="40"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="vue" width="40" height="40"/> 
+
+  <!-- Backend -->
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="java" width="40" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="csharp" width="40" height="40"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/mysql-4.svg" alt="mysql" width="40" height="40"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="40" height="40"/> 
+
+  <!-- Databases -->
+  <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="mysql" width="50" height="50"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql" width="40" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="40" height="40"/> 
+
+  <!-- UI Frameworks -->
+  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" width="45" height="45"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="tailwind" width="45" height="45"/> 
+</p>
+
+---
+
+## 🤝 Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" /></a>
+<a href="https://facebook.com/your-facebook" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="facebook" height="40" width="40" /></a>
+<a href="https://behance.net/your-behance" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145799.png" alt="behance" height="40" width="40" /></a>
 </p>
 
 ---
@@ -58,3 +80,16 @@
     <img src="https://img.shields.io/badge/Donate-Buy%20Me%20a%20Coffee-black?style=for-the-badge&logo=buymeacoffee" height="50"/>
   </a>
 </p>
+
+---
+
+## ✨ About Me
+Mohamed Ahmed Ali is a passionate **Full-Stack Developer** specializing in **end-to-end web application development**.  
+
+- 🎨 **Frontend**: React, HTML/CSS, JavaScript, Angular, Vue.js  
+- ⚙️ **Backend**: Node.js, Express.js, Laravel, Java, PHP, C#  
+- 🔑 **APIs**: RESTful APIs, JWT, OAuth  
+- 🗄️ **Databases**: PostgreSQL, MySQL, MongoDB  
+- ⚡ **Other Skills**: Debugging, Performance Optimization, Bootstrap, Tailwind CSS  
+
+👉 Dedicated to innovation and always staying ahead of industry trends to create **cutting-edge applications**.  
