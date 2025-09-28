@@ -61,6 +61,6 @@
 
 <!-- Profile Banner / Avatar -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300px" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500px" />
 </p>
 
