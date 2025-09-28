@@ -25,14 +25,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eng-Deekh&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Deekh&layout=compact&theme=radical" height="180" />
-</p>
-
----
-
 ## 🛠️ Languages and Tools
 <p align="center"> 
   <!-- Frontend -->
@@ -48,7 +40,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="java" width="40" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="csharp" width="40" height="40"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="40" height="40"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/php-4.svg" alt="php" width="40" height="40"/> 
 
   <!-- Databases -->
   <img src="https://cdn.worldvectorlogo.com/logos/mysql-4.svg" alt="mysql" width="50" height="50"/> 
